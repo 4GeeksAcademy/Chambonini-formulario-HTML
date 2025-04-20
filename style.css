@@ -1,12 +1,11 @@
 body {
-  overflow-x: hidden!important;
-  overflow-y: hidden!important;
- }
-
+ overflow-x: hidden!important;
+ overflow-y: hidden!important;
+}
 
 .form-section {
   max-width:900px
-  margin; 40px auto;
+  margin: 40px auto;
   border: 10px solid #dee2e6;
   border-radius: 6px;
   overflow: hidden;
@@ -44,11 +43,10 @@ textarea {
   resize: none;
 }
 
-/* Pie del formulario */
 .form-footer {
   background-color: #e9ecef;
   padding: 10px 0;
-  width: 100%;  /* Asegura que el pie ocupe el mismo ancho que el formulario */
+  width: 100%;  
 }
 
 .form-footer .btn-container {
