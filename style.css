@@ -52,12 +52,12 @@ textarea {
 .form-footer .btn-container {
   display: flex;
   justify-content: flex-end;
-  padding: 0 20px;
-  margin: 0;
+  padding:0 20px;
+  margin:0;
 }
 
 .form-footer .btn-container button {
-  margin-left: 100px;
+  margin-left: 1px;
 }
 
 
